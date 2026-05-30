@@ -16,6 +16,11 @@ public class PrintNumbersRecursion {
     
     static void print2(int n){
         System.out.println(n);
+        print3(3);
+    }
+    
+    static void print3(int n){
+        System.out.println(n);
     }
     
 }// end of class
