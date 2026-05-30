@@ -1,4 +1,4 @@
-package methodcalling;
+package za.ac.cput;
 
 public class MethodCalling {
 
